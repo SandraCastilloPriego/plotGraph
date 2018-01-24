@@ -45,3 +45,6 @@ arc(4,5,79).
 
 ![Example](https://github.com/SandraCastilloPriego/plotGraph/graph.png)
 
+<p align="center">
+  <img src="graph.png" width="350"/>
+</p>
