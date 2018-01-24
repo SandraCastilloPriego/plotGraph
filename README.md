@@ -1,6 +1,10 @@
 # plotGraph
 Python notebook to plot graphs
 
+<p align="center">
+  <img src="graph.png" width="650"/>
+</p>
+
 Example of a graph file:
 
 nodes(5).
@@ -43,8 +47,3 @@ arc(2,5,60).
 
 arc(4,5,79).
 
-![Example](https://github.com/SandraCastilloPriego/plotGraph/graph.png)
-
-<p align="center">
-  <img src="graph.png" width="350"/>
-</p>
