@@ -43,3 +43,5 @@ arc(2,5,60).
 
 arc(4,5,79).
 
+![Example](https://github.com/SandraCastilloPriego/plotGraph/graph.png)
+
